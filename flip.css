@@ -1,0 +1,112 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700;800;900&display=swap");
+* {
+  margin: 0px;
+  padding: 0px;
+box-sizing: border-box;
+font-family: 'peppins',sans-serif;
+}
+body{
+    background-color:rgb(224, 220, 220);
+    margin-bottom: 50px;
+ 
+}
+input{
+    margin-top: 20px;
+    height: 30px;
+    width: 450px;
+margin-inline-start: 410px;
+border-radius: 9px;
+}
+.box1{
+    background-color: dimgray;
+    height: 80px;
+   
+}
+button{
+    width: 90px;
+    height: 30px;
+    border-radius: 9px;
+}
+
+.logo{
+    font-size: 30px;
+    color:  yellow;
+    text-decoration: none;
+    font-weight: 700px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 500;
+    height: 190px;
+    margin-left: 20px;
+
+}
+.navbar{
+    top: 0;
+    padding: 9px 0;
+background-color: black;
+height: 50px;
+margin-bottom: 40px;
+text-align: center;
+}
+
+.navbar a{
+    font-size: 18px;
+    color: rgb(255, 255, 255);
+text-decoration: none;
+font-weight: 500px;
+margin-left: 80px;
+transition: .3s;
+}
+.navbar a:hover,
+.navbar a.active{
+    color: #00abf0;
+}
+#product-image{
+    width: 1537px;
+    height: 250px;
+ display: flex;
+ margin-left: 0px;
+   
+}
+.box2{
+    margin-top: 200px;
+    padding-top: 30px;
+    margin-left: 50px;
+    margin-right: 50px;
+    background-color: rgb(255, 255, 255);
+    width: 1450px;
+    height: 2430px;
+    display: flex;
+
+}
+img{
+    margin-left: 35px;
+    width: 200px;
+    height: 200px;
+}
+.box3{
+   margin-inline-start: 40px;
+   display: flex;
+}
+
+p{
+    margin-inline-start: 20px;
+   font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+h4{
+    margin-inline-start: 20px;
+   
+}
+.mybutton2{
+    width: 90px;
+    margin-left: 5px;
+    background-color:rgb(255, 255, 255);
+    height: 30px;
+    border-radius: 10px;
+    
+  
+}
+.mybutton2:hover{
+    color: rgb(0, 0, 0);
+    background-color: rgb(238, 255, 0);
+}
+/*end of watches*/
